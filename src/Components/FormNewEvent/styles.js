@@ -2,6 +2,11 @@ import styled from "styled-components";
 
 export const Container = styled.div`
   margin-top: 32px;
+  display: flex;
+  flex-direction: column;
+  
+  width: 100%;
+  max-width: 600px;
 `;
 
 export const Form = styled.form`

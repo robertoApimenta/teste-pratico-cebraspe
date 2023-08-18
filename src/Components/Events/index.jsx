@@ -38,11 +38,11 @@ function Events() {
           <tr>
             <th scope="col">Evento</th>
             <th scope="col">Data</th>
-            <th scope="col">.</th>
-            <th scope="col">.</th>
-            <th scope="col">.</th>
-            <th scope="col">.</th>
-            <th scope="col">.</th>
+            <th scope="col">Logradouro</th>
+            <th scope="col">Bairro</th>
+            <th scope="col">Cidade</th>
+            <th scope="col">Estado</th>
+            <th scope="col">CEP</th>
           </tr>
         </thead>
         <tbody>
